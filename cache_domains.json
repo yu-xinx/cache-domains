@@ -121,6 +121,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "starrail",
+			"description": "CDN for Star Rail",
+			"domain_files": ["starrail.txt"]
 		}
 	]
 }
